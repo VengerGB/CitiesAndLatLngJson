@@ -1,9 +1,9 @@
 [
-{"country":"mc","city":"condamine","accentcity":"Condamine","region":0.0,"population":"","location":[7.41666651,43.7333336]},
+{"country":"mc","city":"condamine","accentcity":"Condamine","region":0.0,"location":[7.41666651,43.7333336]},
 {"country":"mc","city":"fontvieille","accentcity":"Fontvieille","region":0.0,"population":4307.0,"location":[7.41666651,43.7333336]},
 {"country":"mc","city":"la condamine","accentcity":"La Condamine","region":0.0,"population":11985.0,"location":[7.41666651,43.7333336]},
-{"country":"mc","city":"monaco","accentcity":"Monaco","region":0.0,"population":"","location":[7.41666651,43.7333336]},
+{"country":"mc","city":"monaco","accentcity":"Monaco","region":0.0,"location":[7.41666651,43.7333336]},
 {"country":"mc","city":"monaco-ville","accentcity":"Monaco-Ville","region":0.0,"population":967.0,"location":[7.41666651,43.7333336]},
-{"country":"mc","city":"moneghetti","accentcity":"Moneghetti","region":0.0,"population":"","location":[7.415278,43.7375]},
-{"country":"mc","city":"monte-carlo","accentcity":"Monte-Carlo","region":0.0,"population":"","location":[7.41666651,43.7333336]},
+{"country":"mc","city":"moneghetti","accentcity":"Moneghetti","region":0.0,"location":[7.415278,43.7375]},
+{"country":"mc","city":"monte-carlo","accentcity":"Monte-Carlo","region":0.0,"location":[7.41666651,43.7333336]}
 ]

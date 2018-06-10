@@ -1,4 +1,4 @@
 [
-{"country":"gs","city":"grytviken","accentcity":"Grytviken","region":0.0,"population":"","location":[-36.5116653,-54.27667]},
-{"country":"gs","city":"stromness","accentcity":"Stromness","region":0.0,"population":"","location":[-36.71611,-54.1561127]},
+{"country":"gs","city":"grytviken","accentcity":"Grytviken","region":0.0,"location":[-36.5116653,-54.27667]},
+{"country":"gs","city":"stromness","accentcity":"Stromness","region":0.0,"location":[-36.71611,-54.1561127]}
 ]

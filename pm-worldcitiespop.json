@@ -1,5 +1,5 @@
 [
 {"country":"pm","city":"miquelon","accentcity":"Miquelon","region":0.0,"population":1141.0,"location":[-56.38139,47.0975]},
-{"country":"pm","city":"petit barachois","accentcity":"Petit Barachois","region":0.0,"population":"","location":[-56.3638878,46.86028]},
-{"country":"pm","city":"saint-pierre","accentcity":"Saint-Pierre","region":0.0,"population":6200.0,"location":[-56.1833344,46.7666664]},
+{"country":"pm","city":"petit barachois","accentcity":"Petit Barachois","region":0.0,"location":[-56.3638878,46.86028]},
+{"country":"pm","city":"saint-pierre","accentcity":"Saint-Pierre","region":0.0,"population":6200.0,"location":[-56.1833344,46.7666664]}
 ]

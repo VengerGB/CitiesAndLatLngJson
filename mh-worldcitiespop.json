@@ -1,8 +1,8 @@
 [
-{"country":"mh","city":"ine","accentcity":"Ine","region":0.0,"population":"","location":[171.7,6.983333]},
-{"country":"mh","city":"jabooru","accentcity":"Jabooru","region":0.0,"population":"","location":[169.65,5.91666651]},
-{"country":"mh","city":"jabor","accentcity":"Jabor","region":0.0,"population":"","location":[169.65,5.91666651]},
-{"country":"mh","city":"jaboru","accentcity":"Jaboru","region":0.0,"population":"","location":[169.65,5.91666651]},
-{"country":"mh","city":"jabwor","accentcity":"Jabwor","region":0.0,"population":"","location":[169.65,5.91666651]},
-{"country":"mh","city":"majuro","accentcity":"Majuro","region":0.0,"population":"","location":[171.383331,7.1]},
+{"country":"mh","city":"ine","accentcity":"Ine","region":0.0,"location":[171.7,6.983333]},
+{"country":"mh","city":"jabooru","accentcity":"Jabooru","region":0.0,"location":[169.65,5.91666651]},
+{"country":"mh","city":"jabor","accentcity":"Jabor","region":0.0,"location":[169.65,5.91666651]},
+{"country":"mh","city":"jaboru","accentcity":"Jaboru","region":0.0,"location":[169.65,5.91666651]},
+{"country":"mh","city":"jabwor","accentcity":"Jabwor","region":0.0,"location":[169.65,5.91666651]},
+{"country":"mh","city":"majuro","accentcity":"Majuro","region":0.0,"location":[171.383331,7.1]}
 ]

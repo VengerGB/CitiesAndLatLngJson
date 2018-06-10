@@ -1,10 +1,10 @@
 [
 {"country":"sm","city":"acquaviva","accentcity":"Acquaviva","region":1.0,"population":1530.0,"location":[12.416667,43.95]},
 {"country":"sm","city":"chiesanuova","accentcity":"Chiesanuova","region":2.0,"population":952.0,"location":[12.416667,43.9166679]},
-{"country":"sm","city":"citta di san marino","accentcity":"Citt� di San Marino","region":7.0,"population":"","location":[12.45,43.9333344]},
-{"country":"sm","city":"falciano","accentcity":"Falciano","region":9.0,"population":"","location":[12.5,43.9833336]},
-{"country":"sm","city":"poggio di chiesanuova","accentcity":"Poggio di Chiesanuova","region":2.0,"population":"","location":[12.416667,43.9166679]},
-{"country":"sm","city":"san marino citta","accentcity":"San Marino Citt�","region":7.0,"population":"","location":[12.45,43.9333344]},
+{"country":"sm","city":"citta di san marino","accentcity":"Citt� di San Marino","region":7.0,"location":[12.45,43.9333344]},
+{"country":"sm","city":"falciano","accentcity":"Falciano","region":9.0,"location":[12.5,43.9833336]},
+{"country":"sm","city":"poggio di chiesanuova","accentcity":"Poggio di Chiesanuova","region":2.0,"location":[12.416667,43.9166679]},
+{"country":"sm","city":"san marino citta","accentcity":"San Marino Citt�","region":7.0,"location":[12.45,43.9333344]},
 {"country":"sm","city":"san marino","accentcity":"San Marino","region":7.0,"population":4598.0,"location":[12.45,43.9333344]},
-{"country":"sm","city":"serravalle","accentcity":"Serravalle","region":9.0,"population":9258.0,"location":[12.5,43.95]},
+{"country":"sm","city":"serravalle","accentcity":"Serravalle","region":9.0,"population":9258.0,"location":[12.5,43.95]}
 ]
