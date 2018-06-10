@@ -1,0 +1,9 @@
+// Import the data into a collection called UK
+
+// Create an index on the location field.
+db.UK.createIndex({ location: "2dsphere" })
+
+// A sample query (should be Didcot)
+db.UK.find({ location:
+   { $geoWithin:
+      { $centerSphere: [ [ -1.2517376,51.6026337 ], 1 / 3963.2 ] } } })
