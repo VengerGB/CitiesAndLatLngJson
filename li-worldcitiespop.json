@@ -1,4 +1,10 @@
 [
+{"country":"li","city":"balzers","accentcity":"Balzers","region":1.0,"population":4447.0,"location":[9.5,47.0666656]},
+{"country":"li","city":"bendern","accentcity":"Bendern","region":3.0,"population":"","location":[9.5,47.2166672]},
+{"country":"li","city":"blanken","accentcity":"Blanken","region":5.0,"population":"","location":[9.533333,47.1833344]},
+{"country":"li","city":"ebaholz","accentcity":"Ebaholz","region":11.0,"population":"","location":[9.516666,47.15]},
+{"country":"li","city":"ebenholz","accentcity":"Ebenholz","region":11.0,"population":"","location":[9.516666,47.15]},
+{"country":"li","city":"eschen","accentcity":"Eschen","region":2.0,"population":4008.0,"location":[9.516666,47.2166672]},
 {"country":"li","city":"gaflei","accentcity":"Gaflei","region":10.0,"population":"","location":[9.533333,47.1333351]},
 {"country":"li","city":"gambrin","accentcity":"Gambrin","region":3.0,"population":"","location":[9.5,47.2166672]},
 {"country":"li","city":"gamprin-bendern","accentcity":"Gamprin-Bendern","region":3.0,"population":"","location":[9.5,47.2166672]},
@@ -35,10 +41,4 @@
 {"country":"li","city":"vorder-schellenberg","accentcity":"Vorder-Schellenberg","region":8.0,"population":"","location":[9.533333,47.2333336]},
 {"country":"li","city":"wangerbarg","accentcity":"Wangerb�rg","region":9.0,"population":"","location":[9.533333,47.1]},
 {"country":"li","city":"wangerberg","accentcity":"Wangerberg","region":9.0,"population":"","location":[9.533333,47.1]},
-{"country":"li","city":"balzers","accentcity":"Balzers","region":1.0,"population":4447.0,"location":[9.5,47.0666656]},
-{"country":"li","city":"bendern","accentcity":"Bendern","region":3.0,"population":"","location":[9.5,47.2166672]},
-{"country":"li","city":"blanken","accentcity":"Blanken","region":5.0,"population":"","location":[9.533333,47.1833344]},
-{"country":"li","city":"ebaholz","accentcity":"Ebaholz","region":11.0,"population":"","location":[9.516666,47.15]},
-{"country":"li","city":"ebenholz","accentcity":"Ebenholz","region":11.0,"population":"","location":[9.516666,47.15]},
-{"country":"li","city":"eschen","accentcity":"Eschen","region":2.0,"population":4008.0,"location":[9.516666,47.2166672]},
 ]

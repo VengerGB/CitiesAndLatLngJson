@@ -1,5 +1,4 @@
 [
-{"country":"vi","city":"wesley will","accentcity":"Wesley Will","region":0.0,"population":"","location":[-64.6,18.4333324]},
 {"country":"vi","city":"anderson","accentcity":"Anderson","region":0.0,"population":"","location":[-64.63333,18.4333324]},
 {"country":"vi","city":"belle vue","accentcity":"Belle Vue","region":0.0,"population":"","location":[-64.73333,18.45]},
 {"country":"vi","city":"cane garden bay","accentcity":"Cane Garden Bay","region":0.0,"population":"","location":[-64.65,18.416666]},
@@ -21,4 +20,5 @@
 {"country":"vi","city":"the mill","accentcity":"The Mill","region":0.0,"population":"","location":[-64.53333,18.45]},
 {"country":"vi","city":"the settlement","accentcity":"The Settlement","region":0.0,"population":"","location":[-64.3166656,18.7166672]},
 {"country":"vi","city":"threllfall","accentcity":"Threllfall","region":0.0,"population":"","location":[-64.63333,18.4]},
+{"country":"vi","city":"wesley will","accentcity":"Wesley Will","region":0.0,"population":"","location":[-64.6,18.4333324]},
 ]
